@@ -30,6 +30,7 @@ O aplicativo utiliza a permissão INTERNET para realizar requisições à API p�
 ````
 
 Como executar o projeto
+
 Clonar este repositório.
 
 Abrir o projeto no Android Studio.
